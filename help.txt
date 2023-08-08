@@ -1,0 +1,1 @@
+Application.properties file contains common configuration present in different repository which associated with ConfigServer project.
